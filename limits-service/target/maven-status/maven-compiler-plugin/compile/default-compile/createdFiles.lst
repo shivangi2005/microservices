@@ -1,0 +1,4 @@
+com/microservices/limits_service/config/AppConfig.class
+com/microservices/limits_service/controller/LimitsController.class
+com/microservices/limits_service/LimitsServiceApplication.class
+com/microservices/limits_service/bean/Limits.class
